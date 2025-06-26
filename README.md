@@ -1,1 +1,1 @@
-# prettyPermissions
+# pretty-permissions
